@@ -1,7 +1,7 @@
 # RecyclerView1
 
-![screenshot1]()
-![screenshot2]()
+![screenshot1](https://github.com/Angganada/RecyclerView1/blob/master/rv1.PNG)
+![screenshot2](https://github.com/Angganada/RecyclerView1/blob/master/rv2.PNG)
 
 ###Nama  : Anggana Duhita Apsari
 ###Kelas : XI R2
